@@ -25,7 +25,7 @@ Features
 - Can be embedded into websites or portals
 
 
-## 🛠️ Tech Stack
+Tech Stack
 
 | Component        | Tool / Platform                     |
 |------------------|--------------------------------------|
@@ -33,7 +33,7 @@ Features
 | Backend  | IBM Cloud Functions / Node.js / Flask |
 | Deployment       | IBM Cloud, Web App, or LMS integration |
 
-## 🔗 Useful Links
+ Useful Links
 
 - [IBM Cloud Lite](https://cloud.ibm.com/registration)
 - [IBM Watsonx.assistant](https://cloud.ibm.com/catalog/services/watsonx-assistant)
